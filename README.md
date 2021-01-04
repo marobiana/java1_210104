@@ -42,7 +42,6 @@
 ## 문제
 ### [문제 1](04_method/method_quiz/quiz01) : 메소드 사용하기
 ### [문제 2](04_method/method_quiz/quiz02) : 메소드 만들기(기본 연산)
-### [문제 3](04_method/method_quiz/quiz03) : 메소드 만들기(제어문, 반복문)
 
 # 05. 중첩 반복문(nested_loop)
 

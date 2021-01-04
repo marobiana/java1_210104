@@ -1,30 +1,3 @@
-# OT, 질문 받기
-
-# 교육 방침 소개
-- 수업 진행 방식 및 github 주소  
-- IDE는 eclipse
-- 작업 결과물들 가져가기  
-
-# 자바 소개
-절차지향과 객체지향의 차이  
-
-# 자바 개발환경 구축
-- 아래 용어 설명하기
-- 프로그램 설치
-- 글자 크기 변경: windows->preferences->font검색
-
-# 프로젝트 > 패키지 > 클래스 만들기
-- D드라이브에 이름 폴더 만들고, workspace 위치 지정  
-- DayXX 규칙으로 프로젝트 만들기  
-- OOO_ex > Ex01.java, OOO_quiz > Quiz01.java 규칙으로 패키지 만들기  
-
-# Hello world 출력해보기
-System.out.print("Hello world")  
-System.out.println("자기소개 \n 안녕안녕")  
-  
-  
---- 학생 보여주기 ---
-
 ## 자바 개발환경
 
 ## JRE
