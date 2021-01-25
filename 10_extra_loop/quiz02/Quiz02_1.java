@@ -10,7 +10,7 @@ public class Quiz04 {
 		int num = scan.nextInt();
 		int count = 0;
 	
-    // (1)
+    		// (1)
 		while (num != 0) {
 			num = num / 10;
 			count++;
@@ -18,9 +18,9 @@ public class Quiz04 {
 		
 		System.out.println(count);
     
-    // (2)
+    		// (2)
 		int num2 = 0;
-    int count2 = 0;
+    		int count2 = 0;
 		for(int i = 1; num2 >= i; i *= 10) {
 			 count2++;
 		}
