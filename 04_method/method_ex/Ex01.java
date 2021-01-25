@@ -1,31 +1,23 @@
 package method_ex;
 
-public class Ex02 {
+public class Ex01 {
 
 	public static void main(String[] args) {
-		// 메소드 만들기
-		// 1. 어떤 함수를 만들지 이름을 짓는다.(동사)
-		// 2. input 무엇을 받을건지 생각한다.
-		// 3. output 무엇을 돌려줄건지 생각한다.
-		// 4. 구현한다.
+		// 메소드 사용 하기
 		
-		int a = 3;
-		int b = 5;
-		int result = sum(a, b);  // argument : 전달 인자값
-		System.out.println(result);
+		int max = Math.max(10, 5);  // 전달 인자 값 , argument
+		System.out.println(max);
+		System.out.println(Math.max(10, 5));
 		
-		printHelloWorld();
-	}
-	
-	public static int sum(int x, int y) {   // parameter : 매개 변수
-		//int result = x + y;
-		return x + y; // 메소드 종료
+		// 반올림
+		double d = 3.68435;
+		long roundNumber = Math.round(d);
+		System.out.println(roundNumber);
+		System.out.println(Math.round(d));
+		
+		// 절대값
+		int num = Math.abs(-10);
+		System.out.println(num);
 	}
 
-	public static void printHelloWorld() {
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		return; // 메소드 종료
-	}
 }
