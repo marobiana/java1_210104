@@ -29,5 +29,5 @@ scores[4] = 92;
 
 ## 문제
 ### [문제 1](array_quiz/quiz01/README.md) : 배열 기본 사용법
-### [문제 2](array_quiz/quiz02/README.md) : 베열 응용하기
+### [문제 2](array_quiz/quiz02/README.md) : 배열 응용하기
 ### [문제 3](array_quiz/quiz03/README.md) : 고급 문제
